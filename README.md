@@ -1,16 +1,8 @@
 # mealapp2
+It's a kind of meals app where user can get information about how to cook meal. 
+It also include filters where user can choose the meals where if it is lactose free , gluten free or etc. However, user can favorite their meals in this. 
+Last but not the least user can get best user experiences from there
 
-A new Flutter project.
+https://user-images.githubusercontent.com/52703902/124359822-6d091580-dc48-11eb-9d3d-320cf8ac9d72.mp4
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
